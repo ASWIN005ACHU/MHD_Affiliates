@@ -1,0 +1,31 @@
+.banner{
+    min-height: 40vh;
+    background-image: url("https://www.tedswoodworking.com/new/wp-content/uploads/2023/08/tednewbox400reader.jpg");
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+.map-container {
+    height: auto;
+    overflow: hidden;
+    border-top: 2px solid #000;
+}
+
+.horizontal-scroll {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.map-item {
+    margin-right: 10px; 
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

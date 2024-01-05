@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Metal Wall Art",
+        "img": "https://th.bing.com/th?id=OIP.zobnQiVzCodRksD3h9D_-gHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "details": "Elegant metal wall art for your home. Add a touch of sophistication to your living space. This intricately designed metal wall art piece combines modern aesthetics with timeless beauty. Crafted from high-quality materials, this piece is a perfect addition to any room, creating a focal point that sparks conversation and complements your decor."
+    },
+    {
+        "id": 2,
+        "title": "Van Gogh",
+        "img": "https://th.bing.com/th/id/OIP.SE_LxweNaBBtnmm-v7pVPQHaF6?w=261&h=209&c=7&r=0&o=5&pid=1.7",
+        "details": "High-quality prints of famous Van Gogh artworks. Bring artistry into your home. Immerse yourself in the world of Vincent Van Gogh with these high-quality art prints. Each print captures the essence of Van Gogh's masterpieces, allowing you to experience the beauty and emotion of his work in your own space. Enhance your home with these timeless pieces that celebrate the genius of one of history's greatest artists."
+    },
+    {
+        "id": 3,
+        "title": "Black and White Photography",
+        "img": "https://th.bing.com/th?id=OIP.9_yOCv6zwFSI2IxVoUQtYwHaIy&w=229&h=272&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "details": "Classic black and white photography to enhance the aesthetic of your living space. Elevate your decor with the timeless elegance of black and white photography. Each piece tells a unique story, capturing moments of beauty, emotion, and intrigue. These carefully selected photographs bring a sense of sophistication and style to your home, creating a gallery-like atmosphere that complements any interior design."
+    },
+    {
+        "id": 4,
+        "title": "Landscape Art",
+        "img": "https://th.bing.com/th?id=OIP.2AMNGUPIdpE7vacEut6ApgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "details": "Scenic landscape art to bring the beauty of nature into your home. Immerse yourself in the tranquility of nature with our stunning landscape art collection. From majestic mountains to serene seascapes, each piece captures the breathtaking beauty of the great outdoors. Bring a sense of calm and serenity to your living space with these evocative landscape artworks that transport you to distant and beautiful places."
+    },
+    {
+        "id": 5,
+        "title": "Cityscape Art",
+        "img": "https://th.bing.com/th/id/OIP.DuFVi9UPzGwd4PoaIgT6pQHaHa?w=156&h=180&c=7&r=0&o=5&pid=1.7",
+        "details": "Dynamic cityscape art capturing the energy of urban environments. Experience the vibrant energy of city life with our dynamic cityscape art collection. These captivating artworks showcase the bustling streets, iconic landmarks, and modern architecture of urban environments. Add a touch of excitement and sophistication to your decor with these city-inspired pieces that celebrate the spirit of urban living."
+    },
+    {
+        "id": 6,
+        "title": "Abstract Sculpture",
+        "img": "https://th.bing.com/th/id/OIP._pCzH_N9rFytCdFs3fPWFQHaK0?w=184&h=270&c=7&r=0&o=5&pid=1.7",
+        "details": "Unique abstract sculptures to add a modern and artistic touch to your decor. Elevate your space with our collection of unique abstract sculptures. These handcrafted pieces showcase a range of forms, textures, and expressions, adding a modern and artistic touch to your decor. Whether displayed as standalone art or integrated into your interior design, these sculptures are sure to become conversation starters and focal points in any room."
+    },
+    {
+        "id": 7,
+        "title": "Modern Furniture",
+        "img": "https://th.bing.com/th/id/OIP.TaqRTR-ke_oJA6gWovYMPgHaHa?w=182&h=182&c=7&r=0&o=5&pid=1.7",
+        "details": "Sleek and stylish modern furniture for a contemporary and comfortable living space. Transform your home with our collection of sleek and stylish modern furniture. Each piece is designed to blend form and function, offering both comfort and aesthetic appeal. From minimalist sofas to chic coffee tables, our modern furniture pieces are crafted with attention to detail and quality, creating a contemporary and inviting atmosphere in your living space."
+    },
+    {
+        "id": 8,
+        "title": "Contemporary Lighting",
+        "img": "https://th.bing.com/th/id/OIP.pLqtfzHs90PKFR4VG7t5_AHaHa?w=217&h=217&c=7&r=0&o=5&pid=1.7",
+        "details": "Illuminate your space with contemporary lighting fixtures for a warm and inviting ambiance. Create a warm and inviting atmosphere with our contemporary lighting fixtures. From elegant pendant lights to modern floor lamps, each piece is designed to enhance your space with both style and functionality. Discover lighting solutions that complement your decor and bring a sense of sophistication to every room in your home."
+    },
+    {
+        "id": 9,
+        "title": "Handcrafted Ceramics",
+        "img": "https://th.bing.com/th/id/OIP.7eCcGjqpFmG0e6lVkuVCHQHaFj?w=219&h=180&c=7&r=0&o=5&pid=1.7",
+        "details": "Artisanal handcrafted ceramics to add a touch of craftsmanship to your home. Elevate your space with our collection of handcrafted ceramics. Each piece is meticulously crafted by skilled artisans, showcasing the beauty of traditional craftsmanship. From decorative vases to functional tableware, these ceramics add a touch of artistry and warmth to your home. Explore our collection and bring the charm of handcrafted ceramics into your living space."
+    }
+]
